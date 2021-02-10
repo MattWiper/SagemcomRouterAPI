@@ -1,0 +1,10 @@
+{
+  "method": "getValue",
+  "xpath": "Device/Hosts/Hosts",
+
+  "options": {
+    "capability-flags": {
+      "interface": true
+    }
+  }
+}

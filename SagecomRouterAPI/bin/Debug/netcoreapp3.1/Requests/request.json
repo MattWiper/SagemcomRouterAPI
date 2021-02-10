@@ -1,0 +1,10 @@
+{
+  "request": {
+    "id": %%REQUESTID%%,
+    "session-id": %%SESSIONID%%,
+    "priority": false,
+    "actions": [ %%ACTIONS%% ],
+    "cnonce": %%NONCE%%,
+    "auth-key": "%%AUTHKEY%%"
+  }
+}

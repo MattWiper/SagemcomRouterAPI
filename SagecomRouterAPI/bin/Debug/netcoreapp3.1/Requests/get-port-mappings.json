@@ -1,0 +1,5 @@
+{
+  "id": 0,
+  "method": "getValue",
+  "xpath": "Device/NAT/PortMappings"
+}
